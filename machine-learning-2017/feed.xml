@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>source{d} tech talks</title>
+    <description>source{d} tech talks is a one day conference about machine learning</description>
+    <link>http://talks.sourced.tech/machine-learning-2017/</link>
+    <atom:link href="http://talks.sourced.tech/machine-learning-2017/feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
